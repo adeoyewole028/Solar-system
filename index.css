@@ -23,8 +23,3 @@ body {
 .planet {
     margin: 1em
 }
-
-.planet:hover .planet-facts,
-.planet:focus .planet-facts {
-    display: block;
-}
